@@ -1,0 +1,26 @@
+# Abbreviations in OW-ISAC
+
+- **ATP**: Acquisition, Tracking, and Pointing
+- **AWGN**: Additive White Gaussian Noise
+- **BCD**: Block Coordinate Descent
+- **CRB**: Cramèr-Rao Bound
+- **DC**: Direct Current
+- **DFT**: Discrete Fourier Transform
+- **FSO**: Free Space Optical/Optics
+- **IM/DD**: Intensity Modulation and Direct Detection
+- **IoT**: Internet of Things
+- **ISAC**: Integrated Sensing and Communication
+- **KKT**: Karush-Kuhn-Tucker
+- **LiDAR**: Light Detection and Ranging
+- **LoS**: Line of Sight
+- **MLE**: Maximum-likelihood Estimation
+- **OFDM**: Orthogonal Frequency Division Multiplexing
+    - **ACO-OFDM**: Asymmetrically Clipped Optical OFDM
+    - **ADO-OFDM**: Asymmetrically Clipped Direct-current-biased OFDM
+    - **DCO-OFDM**: Direct-current-biased Optical OFDM
+- **PSD**: Power Spectral Density
+- **RF**: Radio Frequency
+- **SIM**: Subcarrier Intensity Modulation
+- **SNR**: Signal-to-noise Ratio
+- **ToF**: Time of Flight
+- **6G**: The Sixth Generation
