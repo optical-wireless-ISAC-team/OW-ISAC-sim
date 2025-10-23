@@ -18,6 +18,8 @@
     - **ACO-OFDM**: Asymmetrically Clipped Optical OFDM
     - **ADO-OFDM**: Asymmetrically Clipped Direct-current-biased OFDM
     - **DCO-OFDM**: Direct-current-biased Optical OFDM
+- **OPA**: Optical Phased Array
+- **OW**: Optical Wireless
 - **PSD**: Power Spectral Density
 - **RF**: Radio Frequency
 - **SIM**: Subcarrier Intensity Modulation
