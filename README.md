@@ -14,6 +14,7 @@
 - **LiDAR**: Light Detection and Ranging
 - **LoS**: Line of Sight
 - **MLE**: Maximum-likelihood Estimation
+- **MSE**: Mean Square Error
 - **OFDM**: Orthogonal Frequency Division Multiplexing
     - **ACO-OFDM**: Asymmetrically Clipped Optical OFDM
     - **ADO-OFDM**: Asymmetrically Clipped Direct-current-biased OFDM
